@@ -8,11 +8,11 @@ function Footer () {
         <footer className='bg-dark text-center text-white'>
             <div className='container p-3 pb-0'>
                 <section className='mb-2'>
-                    <Link target='_blank' to='mailto:haleighspurlock@gmail.com' className='btn btn-outline-light btn-floating m-1' role='button'>< FaGoogle/></Link>
+                    <a href='mailto:haleighspurlock@gmail.com' target='_blank' className='btn btn-outline-light btn-floating m-1' role='button'>< FaGoogle/> </a>
 
-                    <Link target='_blank' to='https://www.linkedin.com/in/haleighspurlock/' className='btn btn-outline-light btn-floating m-1' role='button'>< FaLinkedin/></Link> 
+                    <a href='https://www.linkedin.com/in/haleighspurlock' target='_blank' className='btn btn-outline-light btn-floating m-1' role='button'>< FaLinkedin/> </a>
 
-                    <Link to='https://github.com/haleighspurlock' className='btn btn-outline-light btn-floating m-1' role='button'>< GoMarkGithub/></Link>  
+                    <a href='https://github.com/haleighspurlock' target='_blank' className='btn btn-outline-light btn-floating m-1' role='button'>< GoMarkGithub/> </a>
                 </section>
                 <section className='text-center p-3'>
                 Haleigh Spurlock <FaCopyright/> 2021
