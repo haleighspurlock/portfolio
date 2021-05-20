@@ -157,7 +157,7 @@ const workExperiences = {
     {
       role: "Director",
       company: "The Little Gym",
-      companylogo: require("./assets/images/littlegymlogo.jpeg"),
+      companylogo: require("./assets/images/tlg.png"),
       date: "October 2018 - March 2020",
       desc:
         "I manage some serious fun! Our program is the springboard to life's adventures, using movement based learning and imaginative play to build confidence and skills in kiddos ages 4 months to 12 years! We believe in three dimensional learning so we can provide a safe space for children to explore physical development while growing socially, emotionally, and intellectually."
@@ -165,7 +165,7 @@ const workExperiences = {
     {
       role: "Certified Pharmacy Technician & Financial Counselor",
       company: "Nebraska Medicine",
-      companylogo: require("./assets/images/nebmedlogo.jpeg"),
+      companylogo: require("./assets/images/neblogo.png"),
       date: "April 2017 - August 2018",
       desc:
         "Dispensing of medications for patients, Receiving and verifying the prescriptions, Pricing and filling of prescriptions, Obtaining pharmacist’s approval, Completing patient paperwork related to the filling of prescription, Answering phones and assisting with insurance claims processing, Ensuring availability of drugs by delivering them to patients via our program Meds to Beds"
