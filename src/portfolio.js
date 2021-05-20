@@ -157,7 +157,7 @@ const workExperiences = {
     {
       role: "Director",
       company: "The Little Gym",
-      companylogo: require("./assets/images/littlegymlogo.png"),
+      companylogo: require("./assets/images/littlegymlogo.jpeg"),
       date: "October 2018 - March 2020",
       desc:
         "I manage some serious fun! Our program is the springboard to life's adventures, using movement based learning and imaginative play to build confidence and skills in kiddos ages 4 months to 12 years! We believe in three dimensional learning so we can provide a safe space for children to explore physical development while growing socially, emotionally, and intellectually."
