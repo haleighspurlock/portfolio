@@ -24,6 +24,11 @@ export default function StackProgress() {
               );
             })}
           </div>
+
+          <div className='skills-image'>
+            <img alt='girl'src={require('../../assets/images/software.gif')}
+            />
+          </div>
         </div>
       </Fade>
     );
