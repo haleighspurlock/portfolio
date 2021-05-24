@@ -152,7 +152,7 @@ const workExperiences = {
       date: "February 2020 - Jan 2021",
       desc:
         "Responsible for assisting behavior analysts to implement behavior reduction and skill acquisition treatment plans.",
-      descBullets: ["Requires patience, creativity, and problemsolving"]
+      descBullets: ["Requires patience, creativity, and problem solving"]
     },
     {
       role: "Director",
