@@ -5,7 +5,7 @@
 import emoji from "react-easy-emoji";
 
 const illustration = {
-  animated: true // set to false to use static SVG
+  animated: true, // set to false to use static SVG
 };
 
 const greeting = {
@@ -15,8 +15,8 @@ const greeting = {
     "The Peachy Programmer 🍑  Taking the world of development by storm 🚀  Experience in building both Web and Mobile applications with ✨ Javascript, Reactjs, Nodejs✨ && more!"
   ),
   resumeLink:
-    "https://docs.google.com/document/d/18zMEz3h1-V0CYE8j8f-Sa86j14ZbYS3bMKuTZHRXDxg/edit?usp=sharing",
-  displayGreeting: true // Set false to hide this section, defaults to true
+    "https://docs.google.com/document/d/1tltzNH-keozb_5ftLRtj6s3PIYKKSBHSq0zZhJOosXk/edit?usp=sharing",
+  displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
@@ -26,7 +26,7 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/haleighspurlock/",
   gmail: "haleighspurlock@gmail.com",
   // Instagram and Twitter are also supported in the links!
-  display: true // Set true to display this section, defaults to false
+  display: true, // Set true to display this section, defaults to false
 };
 
 // Skills Section
@@ -40,7 +40,7 @@ const skillsSection = {
     ),
     emoji(
       "⚡ An incredible team player, friendly and ready to run the world of dev"
-    )
+    ),
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -49,46 +49,46 @@ https://fontawesome.com/icons?d=gallery */
   softwareSkills: [
     {
       skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
+      fontAwesomeClassname: "fab fa-html5",
     },
     {
       skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
+      fontAwesomeClassname: "fab fa-css3-alt",
     },
     {
       skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      fontAwesomeClassname: "fab fa-sass",
     },
     {
       skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
+      fontAwesomeClassname: "fab fa-js",
     },
     {
       skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
+      fontAwesomeClassname: "fab fa-react",
     },
     {
       skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
+      fontAwesomeClassname: "fab fa-node",
     },
     {
       skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
+      fontAwesomeClassname: "fab fa-npm",
     },
     {
       skillName: "sql-database",
-      fontAwesomeClassname: "fas fa-database"
+      fontAwesomeClassname: "fas fa-database",
     },
     {
       skillName: "bootstrap",
-      fontAwesomeClassname: "fab fa-bootstrap"
+      fontAwesomeClassname: "fab fa-bootstrap",
     },
     {
       skillName: "github",
-      fontAwesomeClassname: "fab fa-github-alt"
-    }
+      fontAwesomeClassname: "fab fa-github-alt",
+    },
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: true, // Set false to hide this section, defaults to true
 };
 
 // Education Section
@@ -105,8 +105,8 @@ const educationInfo = {
         "12-week intensive program focused on gaining technical programming skills in:",
       descBullets: [
         "HTML5, CSS3, Javascript, JQuery, Bootstrap",
-        "Node JS, MySQL, MongoDB, Express, and ReactJS"
-      ]
+        "Node JS, MySQL, MongoDB, Express, and ReactJS",
+      ],
     },
     {
       schoolName: "Graceland University",
@@ -114,9 +114,9 @@ const educationInfo = {
       subHeader: "Bachelor of Arts in Psychology",
       duration: "September 2011 - April 2014",
       desc: "Graduated with a 3.2 GPA. Minored in Sociology.",
-      descBullets: ["Graceland Gadets Dance Team"]
-    }
-  ]
+      descBullets: ["Graceland Gadets Dance Team"],
+    },
+  ],
 };
 
 // Your top 3 proficient stacks/tech experience
@@ -126,18 +126,18 @@ const techStack = {
   experience: [
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "40%" //Insert relative proficiency in percentage
+      progressPercentage: "40%", //Insert relative proficiency in percentage
     },
     {
       Stack: "Backend",
-      progressPercentage: "60%"
+      progressPercentage: "60%",
     },
     {
       Stack: "Programming",
-      progressPercentage: "50%"
-    }
+      progressPercentage: "50%",
+    },
   ],
-  displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
+  displayCodersrank: false, // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
 
 // Work experience section
@@ -152,7 +152,7 @@ const workExperiences = {
       date: "February 2020 - Jan 2021",
       desc:
         "Responsible for assisting behavior analysts to implement behavior reduction and skill acquisition treatment plans.",
-      descBullets: ["Requires patience, creativity, and problem solving"]
+      descBullets: ["Requires patience, creativity, and problem solving"],
     },
     {
       role: "Director",
@@ -160,7 +160,7 @@ const workExperiences = {
       companylogo: require("./assets/images/tlg.png"),
       date: "October 2018 - March 2020",
       desc:
-        "I manage some serious fun! Our program is the springboard to life's adventures, using movement based learning and imaginative play to build confidence and skills in kiddos ages 4 months to 12 years! We believe in three dimensional learning so we can provide a safe space for children to explore physical development while growing socially, emotionally, and intellectually."
+        "I manage some serious fun! Our program is the springboard to life's adventures, using movement based learning and imaginative play to build confidence and skills in kiddos ages 4 months to 12 years! We believe in three dimensional learning so we can provide a safe space for children to explore physical development while growing socially, emotionally, and intellectually.",
     },
     {
       role: "Certified Pharmacy Technician & Financial Counselor",
@@ -168,7 +168,7 @@ const workExperiences = {
       companylogo: require("./assets/images/neblogo.png"),
       date: "April 2017 - August 2018",
       desc:
-        "Dispensing of medications for patients, Receiving and verifying the prescriptions, Pricing and filling of prescriptions, Obtaining pharmacist’s approval, Completing patient paperwork related to the filling of prescription, Answering phones and assisting with insurance claims processing, Ensuring availability of drugs by delivering them to patients via our program Meds to Beds"
+        "Dispensing of medications for patients, Receiving and verifying the prescriptions, Pricing and filling of prescriptions, Obtaining pharmacist’s approval, Completing patient paperwork related to the filling of prescription, Answering phones and assisting with insurance claims processing, Ensuring availability of drugs by delivering them to patients via our program Meds to Beds",
     },
     {
       role: "Lead Residential Counselor",
@@ -176,9 +176,9 @@ const workExperiences = {
       companylogo: require("./assets/images/mercylogo.jpeg"),
       date: "June 2014 - November 2016",
       desc:
-        "Serves as a teacher, coach, mentor, and role model to adult resident's and their children. Supports clients through their education and treatment areas such as chemical dependency, daily living skills, parenting, self-sufficiency, behavioral and mental heath. Building and maintaining rapport and a therapeutic relationship with clients and their children. Utilizing a compassionate, empathetic manner to ensure clients feel welcome and appreciated."
-    }
-  ]
+        "Serves as a teacher, coach, mentor, and role model to adult resident's and their children. Supports clients through their education and treatment areas such as chemical dependency, daily living skills, parenting, self-sufficiency, behavioral and mental heath. Building and maintaining rapport and a therapeutic relationship with clients and their children. Utilizing a compassionate, empathetic manner to ensure clients feel welcome and appreciated.",
+    },
+  ],
 };
 
 /* Your Open Source Section to View Your Github Pinned Projects
@@ -186,7 +186,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: true // Set false to hide this section, defaults to true
+  display: true, // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
@@ -203,10 +203,10 @@ const bigProjects = {
       footerLink: [
         {
           name: "Deployed Application",
-          url: "https://quirkyquiz.herokuapp.com/"
-        }
+          url: "https://quirkyquiz.herokuapp.com/",
+        },
         //  you can add extra buttons here.
-      ]
+      ],
     },
     {
       image: require("./assets/images/homepage.png"),
@@ -216,9 +216,9 @@ const bigProjects = {
       footerLink: [
         {
           name: "Deployed Application",
-          url: "https://haleighspurlock.github.io/react-employee-directory/"
-        }
-      ]
+          url: "https://haleighspurlock.github.io/react-employee-directory/",
+        },
+      ],
     },
     {
       image: require("./assets/images/fitness-dashboard.png"),
@@ -228,10 +228,10 @@ const bigProjects = {
       footerLink: [
         {
           name: "Deployed Application",
-          url: "https://hspurlock-fitness-tracker.herokuapp.com/stats"
-        }
+          url: "https://hspurlock-fitness-tracker.herokuapp.com/stats",
+        },
         //  you can add extra buttons here.
-      ]
+      ],
     },
     {
       image: require("./assets/images/Doggle.png"),
@@ -241,20 +241,20 @@ const bigProjects = {
       footerLink: [
         {
           name: "Deployed Application",
-          url: "https://accoon.github.io/Dog-Breed-Finder-and-Rescue/"
-        }
+          url: "https://accoon.github.io/Dog-Breed-Finder-and-Rescue/",
+        },
         //  you can add extra buttons here.
-      ]
-    }
+      ],
+    },
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: true, // Set false to hide this section, defaults to true
 };
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Job Opportunity? Project Idea? Want to say hi? Feel free to reach out!",
-  email_address: "haleighspurlock@gmail.com"
+  email_address: "haleighspurlock@gmail.com",
 };
 
 export {
@@ -267,5 +267,5 @@ export {
   workExperiences,
   openSource,
   bigProjects,
-  contactInfo
+  contactInfo,
 };
