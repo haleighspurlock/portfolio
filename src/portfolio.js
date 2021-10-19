@@ -146,6 +146,14 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Software Developer",
+      company: "Charter Communications",
+      companylogo: require("./assets/images/charterlogo.png"),
+      date: "July 2021 - Present",
+      desc:
+        "Junior API/UI developer on the Lighthouse team, which provides an outage management system for cable and internet. My role involves building new enhancement modules and dashboards as well as bug fixes. Also assisting with moving from Angular to React and migrating the APIs from PHP to Node. Tech Stack includes Angular, Node.js, React, GraphQL and JavaScript",
+    },
+    {
       role: "Registered Behavior Technician",
       company: "Positive Behavior Supports",
       companylogo: require("./assets/images/pbslogo.jpeg"),
@@ -170,14 +178,14 @@ const workExperiences = {
       desc:
         "Dispensing of medications for patients, Receiving and verifying the prescriptions, Pricing and filling of prescriptions, Obtaining pharmacist’s approval, Completing patient paperwork related to the filling of prescription, Answering phones and assisting with insurance claims processing, Ensuring availability of drugs by delivering them to patients via our program Meds to Beds",
     },
-    {
-      role: "Lead Residential Counselor",
-      company: "House of Mercy - Mercy Medical Center",
-      companylogo: require("./assets/images/mercylogo.jpeg"),
-      date: "June 2014 - November 2016",
-      desc:
-        "Serves as a teacher, coach, mentor, and role model to adult resident's and their children. Supports clients through their education and treatment areas such as chemical dependency, daily living skills, parenting, self-sufficiency, behavioral and mental heath. Building and maintaining rapport and a therapeutic relationship with clients and their children. Utilizing a compassionate, empathetic manner to ensure clients feel welcome and appreciated.",
-    },
+    // {
+    //   role: "Lead Residential Counselor",
+    //   company: "House of Mercy - Mercy Medical Center",
+    //   companylogo: require("./assets/images/mercylogo.jpeg"),
+    //   date: "June 2014 - November 2016",
+    //   desc:
+    //     "Serves as a teacher, coach, mentor, and role model to adult resident's and their children. Supports clients through their education and treatment areas such as chemical dependency, daily living skills, parenting, self-sufficiency, behavioral and mental heath. Building and maintaining rapport and a therapeutic relationship with clients and their children. Utilizing a compassionate, empathetic manner to ensure clients feel welcome and appreciated.",
+    // },
   ],
 };
 
