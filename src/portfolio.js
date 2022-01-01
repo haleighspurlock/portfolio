@@ -9,7 +9,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Haleigh Spurlock",
+  username: "Haleigh Twohy",
   title: "Hi all, I'm Haleigh!",
   subTitle: emoji(
     "The Peachy Programmer 🍑  Taking the world of development by storm 🚀  Experience in building both Web and Mobile applications with ✨ Javascript, Reactjs, Nodejs✨ && more!"
