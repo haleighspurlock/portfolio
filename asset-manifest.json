@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0738e884.chunk.css",
+    "main.js": "/static/js/main.bfc8f477.chunk.js",
+    "main.js.map": "/static/js/main.bfc8f477.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.488cff33.js",
+    "runtime-main.js.map": "/static/js/runtime-main.488cff33.js.map",
+    "static/js/2.3538d0fa.chunk.js": "/static/js/2.3538d0fa.chunk.js",
+    "static/js/2.3538d0fa.chunk.js.map": "/static/js/2.3538d0fa.chunk.js.map",
+    "static/css/3.6a352120.chunk.css": "/static/css/3.6a352120.chunk.css",
+    "static/js/3.a7c5b718.chunk.js": "/static/js/3.a7c5b718.chunk.js",
+    "static/js/3.a7c5b718.chunk.js.map": "/static/js/3.a7c5b718.chunk.js.map",
+    "static/css/4.6e14a8dd.chunk.css": "/static/css/4.6e14a8dd.chunk.css",
+    "static/js/4.d9cc4b78.chunk.js": "/static/js/4.d9cc4b78.chunk.js",
+    "static/js/4.d9cc4b78.chunk.js.map": "/static/js/4.d9cc4b78.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.daffc23c93aab923de85bf88738e18bc.js": "/precache-manifest.daffc23c93aab923de85bf88738e18bc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/3.6a352120.chunk.css.map": "/static/css/3.6a352120.chunk.css.map",
+    "static/css/4.6e14a8dd.chunk.css.map": "/static/css/4.6e14a8dd.chunk.css.map",
+    "static/css/main.0738e884.chunk.css.map": "/static/css/main.0738e884.chunk.css.map",
+    "static/js/2.3538d0fa.chunk.js.LICENSE.txt": "/static/js/2.3538d0fa.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Doggle.png": "/static/media/Doggle.7aa20e5b.png",
+    "static/media/QuirkyQuiz.png": "/static/media/QuirkyQuiz.957f2b2f.png",
+    "static/media/charterlogo.png": "/static/media/charterlogo.bc47c117.png",
+    "static/media/fitness-dashboard.png": "/static/media/fitness-dashboard.f7f5204a.png",
+    "static/media/homepage.png": "/static/media/homepage.b43d80cf.png",
+    "static/media/software.gif": "/static/media/software.a249aceb.gif",
+    "static/media/tlg.png": "/static/media/tlg.af3fa5b0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.488cff33.js",
+    "static/js/2.3538d0fa.chunk.js",
+    "static/css/main.0738e884.chunk.css",
+    "static/js/main.bfc8f477.chunk.js"
+  ]
+}
