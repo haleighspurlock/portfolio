@@ -15,7 +15,7 @@ const greeting = {
     "The Peachy Programmer 🍑  Taking the world of development by storm 🚀  Experience in building both Web and Mobile applications with ✨ Javascript, Reactjs, Nodejs✨ && more!"
   ),
   resumeLink:
-    "https://docs.google.com/document/d/1tltzNH-keozb_5ftLRtj6s3PIYKKSBHSq0zZhJOosXk/edit?usp=sharing",
+  "https://docs.google.com/document/d/1wy2RJ95maT6Uqty5YPPKrWXedTkU4MogACJEMBmimWk/edit?usp=sharing",
   displayGreeting: true, // Set false to hide this section, defaults to true
 };
 
