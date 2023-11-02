@@ -147,9 +147,17 @@ const workExperiences = {
   experience: [
     {
       role: "Software Developer",
+      company: "EDRAY Collaborative Port Logistics",
+      companylogo: require("./assets/images/edraylogo.png"),
+      date: "April 2023 - Present",
+      desc:
+        "Development on a new generation of the logistics product utilized by EDRAY and customers. Utilized React and Typescript to help create the application, participated in Agile planning, met with business to understand needs and translate them into technical requirements, collaborated  in part with both project architect and CTO to collaborate on platform and application design, served as a mentor to guide backend juniors in frontend and git practices.",
+    },
+    {
+      role: "Software Developer",
       company: "Charter Communications",
       companylogo: require("./assets/images/charterlogo.png"),
-      date: "July 2021 - Present",
+      date: "July 2021 - October 2022",
       desc:
         "Junior API/UI developer on the Lighthouse team, which provides an outage management system for cable and internet. My role involves building new enhancement modules and dashboards as well as bug fixes. Also assisting with moving from Angular to React and migrating the APIs from PHP to Node. Tech Stack includes Angular, Node.js, React, GraphQL and JavaScript",
     },
@@ -170,14 +178,14 @@ const workExperiences = {
       desc:
         "I manage some serious fun! Our program is the springboard to life's adventures, using movement based learning and imaginative play to build confidence and skills in kiddos ages 4 months to 12 years! We believe in three dimensional learning so we can provide a safe space for children to explore physical development while growing socially, emotionally, and intellectually.",
     },
-    {
-      role: "Certified Pharmacy Technician & Financial Counselor",
-      company: "Nebraska Medicine",
-      companylogo: require("./assets/images/neblogo.png"),
-      date: "April 2017 - August 2018",
-      desc:
-        "Dispensing of medications for patients, Receiving and verifying the prescriptions, Pricing and filling of prescriptions, Obtaining pharmacist’s approval, Completing patient paperwork related to the filling of prescription, Answering phones and assisting with insurance claims processing, Ensuring availability of drugs by delivering them to patients via our program Meds to Beds",
-    },
+    // {
+    //   role: "Certified Pharmacy Technician & Financial Counselor",
+    //   company: "Nebraska Medicine",
+    //   companylogo: require("./assets/images/neblogo.png"),
+    //   date: "April 2017 - August 2018",
+    //   desc:
+    //     "Dispensing of medications for patients, Receiving and verifying the prescriptions, Pricing and filling of prescriptions, Obtaining pharmacist’s approval, Completing patient paperwork related to the filling of prescription, Answering phones and assisting with insurance claims processing, Ensuring availability of drugs by delivering them to patients via our program Meds to Beds",
+    // },
     // {
     //   role: "Lead Residential Counselor",
     //   company: "House of Mercy - Mercy Medical Center",
